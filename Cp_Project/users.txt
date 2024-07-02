@@ -1,0 +1,4 @@
+mahnoor mahnoor 250000 1
+bisma bisma 1000 1
+abbas abbas 50000 3
+ahmed ahmed 150000 1

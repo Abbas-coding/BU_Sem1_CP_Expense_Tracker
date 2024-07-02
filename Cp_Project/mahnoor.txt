@@ -1,0 +1,14 @@
+utilities Electric 0 2024-05-01 K_Electric
+health checkup 2500 2024-02-10 civil
+education university 7500 2024-02-06 bahria
+extra movies 1500 2024-03-21 nuplex
+utilities water 1000 2024-05-01 none
+family clothing 5000 2024-04-15 levis
+grocery fruits 750 2024-05-05 chase-value
+extra Fast_comp 1000 2024-04-24 Fast_University
+education szabist 300 2024-05-07 Szabist_University
+health gym 1500 2024-05-24 University
+extra report 950 2024-05-31 Uni_stationary
+entertainment movie 2500 2024-05-30 nuplex
+health dental 2340 2024-03-12 abbasi 
+utilities water_bill 1500 2024-07-02 Water_company 

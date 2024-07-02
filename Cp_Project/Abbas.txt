@@ -1,0 +1,15 @@
+Jan
+Health
+Transport
+Rent 
+Utilities 
+Food
+Groceries 
+
+@Feb 
+Health 10
+Transport 20
+Rent 30
+Utilities 60
+Food 50 
+Groceries 560entertainment qawwali_night 2500 2024-06-1 bahria 
