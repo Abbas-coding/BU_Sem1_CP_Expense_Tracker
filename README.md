@@ -12,3 +12,8 @@ The Expense Tracker is a comprehensive application designed to help users manage
 - **Manage Debt**: Keep track of repayments and outstanding amounts.
 - **Interactive Menu**: Navigate through operations with ease.
 - **Financial Reports**: Generate weekly and monthly summaries of expenses.
+
+## Authors
+Mahnoor Zahra (https://github.com/mahra110)
+Bisma Iqbal (https://github.com/bismaiqbal5404)
+Abbas Fakhruddin
